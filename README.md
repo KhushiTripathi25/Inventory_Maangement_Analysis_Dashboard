@@ -40,7 +40,5 @@
     </ol>
 <h2>👨‍💻 About the Project</h2>
     <p>This project was developed to showcase expertise in Data Analysis, Business Intelligence, and Supply Chain Management using Power BI. It demonstrates the ability to transform raw data into actionable business intelligence.</p>
-<h2>💡 Suggestions for Enhancement?</h2>
-    <p>Feel free to fork this repo or open an issue to discuss new features, additional metrics, or other visualizations that could add value!</p>
 </body>
 </html>
